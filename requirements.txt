@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-community 
+langchain-openai 
+langchain-experimental 
+neo4j
+google-cloud-aiplatform
+pymupdf
+graphrag
+python-dotenv
